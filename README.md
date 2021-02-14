@@ -1,3 +1,10 @@
+To run the app locally : 
+Clone the repository
+Run npm install followed by num start using cmd
+
+Also you can see it live on :
+http://sglogger-8a96d.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
