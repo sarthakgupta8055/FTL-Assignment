@@ -1,6 +1,6 @@
 To run the app locally : 
 Clone the repository
-Run npm install followed by num start using cmd
+Run npm install followed by npm start using cmd
 
 Also you can see it live on :
 https://sglogger-8a96d.firebaseapp.com/
